@@ -311,6 +311,11 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
 
+* [_Python Numpy_](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+
+* [_Python Initial course_](https://www.youtube.com/watch?v=chPhlsHoEPo)
+
+* [_Github course_](https://www.youtube.com/watch?v=RGOj5yH7evk)
  
 ### Other Resources
 
